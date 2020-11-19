@@ -1,0 +1,27 @@
+{
+  "name": "hal",
+  "version": "1.0.0",
+  "description": "A simple discord bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon -V index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicarr/hal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicarr/hal/issues"
+  },
+  "homepage": "https://github.com/nicarr/hal#readme",
+  "dependencies": {
+    "discord.js": "^12.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
